@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ruly Rizki Perdana</h1>
 
 <p align="center">
- <img src="https://komarev.com/ghpvc/?username=rulyce23&label=Profile%20views&style=flat" alt="rulyce23" /> 
+ <img src="https://komarev.com/ghpvc/?username=rteriz23&label=Profile%20views&style=flat" alt="rteriz23" /> 
 </p>
 
 <p align="center">
@@ -25,9 +25,9 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rulyce23&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rulyce23&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rulyce23&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rteriz23&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rteriz23&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rteriz23&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -36,7 +36,7 @@
 
 <p align="left">
   <a href="https://github.com/rulyce23">
-    <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=rulyce23&theme=juicyfresh" alt="rulyce23" />
+    <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=rteriz23&theme=juicyfresh" alt="rteriz23" />
   </a>
 </p>
 ---
