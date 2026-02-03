@@ -25,7 +25,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="left">
-  <a href="https://github.com/rulyce23">
+  <a href="https://github.com/rteriz23">
     <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=rteriz23&theme=juicyfresh" alt="rteriz23" />
   </a>
 </p>
