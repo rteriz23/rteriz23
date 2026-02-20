@@ -8,11 +8,6 @@
 
 <br />
 
-<div align="center">
-  <h3>🏆 GitHub Trophies</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=rteriz23&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
-
 ---
 
 <div align="center">
@@ -30,8 +25,8 @@
 
 <div align="center">
   <h2>🏅 GitHub Stats & Ranking</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=rteriz23&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&animation=true" height="190" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rteriz23&theme=tokyonight&hide_border=true&animation=true" height="190" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rteriz23&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="190" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rteriz23&theme=tokyonight&hide_border=true" height="190" alt="GitHub Streak" />
   <p><i>🔥 Ranking letter (A+, A, B, C, S) automatically calculated based on global GitHub percentile.</i></p>
 </div>
 
