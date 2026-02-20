@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ruly Rizki Perdana</h1>
-<h3 align="center">🚀 Full-Stack Web Developer | 🤖 AI Research Programmer | ⚡ Automation Engineer</h3>
+<h3 align="center">🚀 Full-Stack Engineer | 🤖 AI Research Programmer | ⚡ Automation Specialist</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rteriz23&label=Profile%20Views&color=blueviolet&style=flat" />
@@ -11,8 +11,8 @@
 
 - 🔭 Building scalable **Web Applications & AI Automation Systems**
 - 🌱 Exploring **Artificial Intelligence, Web 3.0 & Cloud Infrastructure**
-- 💬 Tech Stack: Laravel, CodeIgniter, Yii2, React, Node.js, Python
-- ⚡ Love turning repetitive tasks into intelligent automation
+- 💬 Stack: Laravel, CodeIgniter, Yii2, React, Node.js, Python
+- ⚡ Passionate about automating complex workflows
 - 🌐 Website: https://ruperzki23.kesug.com
 
 ---
@@ -20,7 +20,7 @@
 # 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rteriz23&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rteriz23&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&row=2&column=4" />
 </p>
 
 ---
@@ -30,18 +30,20 @@
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=rteriz23&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=percentile" 
-    height="180"
+    height="190"
   />
 </p>
 
 <p align="center">
   <img 
     src="https://github-readme-streak-stats.herokuapp.com?user=rteriz23&theme=tokyonight&hide_border=true" 
-    height="180"
+    height="190"
   />
 </p>
 
-> 🏅 **Ranking Letter (A+, A, B, C, S)** muncul otomatis berdasarkan performa global GitHub percentile.
+<p align="center">
+  🔥 Ranking letter (A+, A, B, C, S) otomatis berdasarkan global percentile GitHub
+</p>
 
 ---
 
@@ -70,6 +72,16 @@
 
 ---
 
+# 🐍 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rteriz23/rteriz23/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+> ⚠️ Untuk mengaktifkan snake animation, perlu GitHub Action khusus. Kalau mau, saya bisa buatkan workflow file-nya.
+
+---
+
 # 🧑‍💻 Tech Stack
 
 ### 🚀 Languages & Frameworks
@@ -83,10 +95,10 @@
 # 🤖 AI & Automation Focus
 
 - 🧠 AI-powered Web Applications  
-- 🤖 Business Workflow Automation  
-- 📊 Data Processing & Visualization  
+- 🤖 Workflow & Business Process Automation  
+- 📊 Data Engineering & Analytics  
 - ☁️ Cloud Deployment & DevOps  
-- 🔐 Secure & Scalable Backend Systems  
+- 🔐 Secure & Scalable Backend Architecture  
 
 ---
 
@@ -117,5 +129,5 @@
 ---
 
 <p align="center">
-  ⚡ "Engineering smart systems that automate the future."
+  ⚡ "Engineering intelligent systems that automate the future."
 </p>
