@@ -10,35 +10,48 @@
 ## 🧠 About Me
 
 - 🔭 Building scalable **Web Applications & AI Automation Systems**
-- 🌱 Exploring **Artificial Intelligence, Web 3.0 & Cloud Deployment**
+- 🌱 Exploring **Artificial Intelligence, Web 3.0 & Cloud Infrastructure**
 - 💬 Tech Stack: Laravel, CodeIgniter, Yii2, React, Node.js, Python
-- ⚡ Passionate about turning complex problems into smart automation
+- ⚡ Love turning repetitive tasks into intelligent automation
 - 🌐 Website: https://ruperzki23.kesug.com
 
 ---
 
-# 🏆 GitHub Ranking & Performance
+# 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rteriz23&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
+</p>
+
+---
+
+# 🥇 GitHub Ranking Status
 
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=rteriz23&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=percentile" 
-    height="170"
-  />
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=rteriz23&theme=tokyonight&hide_border=true" 
-    height="170"
+    height="180"
   />
 </p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=rteriz23&theme=tokyonight&hide_border=true" 
+    height="180"
+  />
+</p>
+
+> 🏅 **Ranking Letter (A+, A, B, C, S)** muncul otomatis berdasarkan performa global GitHub percentile.
+
+---
+
+# 📊 Contribution Overview
 
 <p align="center">
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rteriz23&theme=tokyonight" 
   />
 </p>
-
----
-
-# 📊 Contribution Insights
 
 <p align="center">
   <img 
@@ -70,10 +83,10 @@
 # 🤖 AI & Automation Focus
 
 - 🧠 AI-powered Web Applications  
-- 🤖 Workflow & Business Automation  
-- 📊 Data Processing & Analytics  
-- ☁️ Cloud Deployment & CI/CD  
-- 🔐 Secure Backend Architecture  
+- 🤖 Business Workflow Automation  
+- 📊 Data Processing & Visualization  
+- ☁️ Cloud Deployment & DevOps  
+- 🔐 Secure & Scalable Backend Systems  
 
 ---
 
