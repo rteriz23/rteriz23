@@ -47,6 +47,8 @@
   <img src="https://img.shields.io/badge/Cursor%20AI-343434?style=for-the-badge&logo=data:image/svg+xml;base64,...&logoColor=white" title="Cursor AI" />
 </p>
 ---
+![Rteriz23's GitHub stats](https://github-readme-stats.vercel.app/api?username=rteriz23&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Rteriz23's GitHub stats](https://github-readme-stats.vercel.app/api?username=rteriz23&show_icons=true)
 
 ### 🧰 Tools & Platforms
 
