@@ -5,6 +5,10 @@
   <img src="https://komarev.com/ghpvc/?username=rteriz23&label=Profile%20Views&color=blueviolet&style=flat" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rteriz23&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=percentile" />
+</p>
+
 ---
 
 ## 🧠 About Me
