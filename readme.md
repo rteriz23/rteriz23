@@ -8,6 +8,11 @@
 
 <br />
 
+<div align="center">
+  <h3>🏆 GitHub Trophies</h3>
+  <img src="https://github-profile-trophy-one.vercel.app/?username=rteriz23&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</div>
+
 ---
 
 <div align="center">
