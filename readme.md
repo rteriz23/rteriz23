@@ -47,9 +47,31 @@
   <img src="https://img.shields.io/badge/Cursor%20AI-343434?style=for-the-badge&logo=data:image/svg+xml;base64,...&logoColor=white" title="Cursor AI" />
 </p>
 ---
-![Rteriz23's GitHub stats](https://github-readme-stats.vercel.app/api?username=rteriz23&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-![Rteriz23's GitHub stats](https://github-readme-stats.vercel.app/api?username=rteriz23&show_icons=true)
-
+<p align="center">
+  <a href="https://github.com/rteriz23/github-readme-stats/actions">
+    <img alt="Tests Passing" src="https://github.com/rteriz23/github-readme-stats/workflows/Test/badge.svg" />
+  </a>
+  <a href="https://github.com/rteriz23/github-readme-stats/graphs/contributors">
+    <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/rteriz23/github-readme-stats" />
+  </a>
+  <a href="https://codecov.io/gh/rteriz23/github-readme-stats">
+    <img alt="Tests Coverage" src="https://codecov.io/gh/rteriz23/github-readme-stats/branch/master/graph/badge.svg" />
+  </a>
+  <a href="https://github.com/rteriz23/github-readme-stats/issues">
+    <img alt="Issues" src="https://img.shields.io/github/issues/rteriz23/github-readme-stats?color=0088ff" />
+  </a>
+  <a href="https://github.com/rteriz23/github-readme-stats/pulls">
+    <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/rteriz23/github-readme-stats?color=0088ff" />
+  </a>
+  <a href="https://securityscorecards.dev/viewer/?uri=github.com/rteriz23/github-readme-stats">
+    <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/rteriz23/github-readme-stats/badge" />
+  </a>
+  <br />
+  <br />
+  <a href="https://vercel.com?utm\_source=github\_readme\_stats\_team\&utm\_campaign=oss">
+    <img src="./powered-by-vercel.svg"/>
+  </a>
+</p>
 ### 🧰 Tools & Platforms
 
 <p align="center">
