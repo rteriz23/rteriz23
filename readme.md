@@ -71,14 +71,11 @@
 </p>
 
 ---
-
-# 🐍 Contribution Snake Animation
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/rteriz23/rteriz23/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
-> ⚠️ Untuk mengaktifkan snake animation, perlu GitHub Action khusus. Kalau mau, saya bisa buatkan workflow file-nya.
 
 ---
 
