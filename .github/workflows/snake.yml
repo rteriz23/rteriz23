@@ -4,6 +4,12 @@ on:
   schedule:
     - cron: "0 0 * * *"   # setiap hari jam 00:00 UTC
   workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
 
 jobs:
   build:
